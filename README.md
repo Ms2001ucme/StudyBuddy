@@ -51,6 +51,17 @@ Contributions are welcome! Please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
+>git checkout -b feature/your-feature-name
 
+3.Make your changes and commit them:
+>git commit -m "Add your message here"
+
+Push to the branch:
+>git push origin feature/your-feature-name
+
+Open a pull request and describe your changes.
+
+---
+## Acknowledgments
+- [Django Documentation](https://docs.djangoproject.com/)
+- Inspiration from the student community!
