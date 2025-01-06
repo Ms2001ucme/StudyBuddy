@@ -6,8 +6,9 @@ A collaborative platform that enables students to create topic-specific rooms an
 - User-friendly interface for seamless navigation.
 - Secure and private rooms for focused collaboration.
 ## Screenshots
-![Homepage](https://imgur.com/a/7GZh5ve)
-![Chat Room]((https://imgur.com/a/7GZh5ve))
+![Homepage](templates/home.png)
+![Chat Room](templates/room.png)
+
 ## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Python, Django
