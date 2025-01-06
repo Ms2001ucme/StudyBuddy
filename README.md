@@ -10,13 +10,7 @@ A collaborative platform that enables students to create topic-specific rooms an
 - **Backend:** Python, Django
 - **Database:** SQLite (or any database you used)
 - **Others:** Bootstrap for styling, Any third-party libraries or APIs
-## Installation and Setup
 
-5. Installation and Setup
-Provide step-by-step instructions to help others set up and run the project.
-
-markdown
-Copy code
 ## Installation and Setup
 
 1. Clone the repository:
@@ -43,10 +37,6 @@ Open the app in your browser:
 
 ---
 
-### **6. How to Use**
-Explain how users can interact with the app.
-
-```markdown
 ## How to Use
 1. Register or log in to access the app.
 2. Create a study room by specifying a topic.
@@ -55,16 +45,6 @@ Explain how users can interact with the app.
 
 
 ---
-
-### **6. How to Use**
-Explain how users can interact with the app.
-
-```markdown
-## How to Use
-1. Register or log in to access the app.
-2. Create a study room by specifying a topic.
-3. Share the room link with friends to join.
-4. Start engaging in real-time chat discussions.
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
